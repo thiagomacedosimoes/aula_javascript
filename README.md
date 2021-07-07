@@ -1,2 +1,8 @@
 # aula_javascript
-Introdução 
+alert
+váriaveis
+console.log
+replace
+toUpperCase
+toLowerCase
+
